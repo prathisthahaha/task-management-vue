@@ -1,0 +1,69 @@
+{
+  "user": [
+    {
+      "name": "prats",
+      "email": "prats@gmail.com",
+      "password": "abs",
+      "id": "4f6b"
+    },
+    {
+      "id": "515b",
+      "name": "pri",
+      "email": "pri@gmail.com",
+      "password": "legs"
+    },
+    {
+      "id": "48bb",
+      "email": "tony@gmail.com",
+      "password": "abs",
+      "name": "tony"
+    },
+    {
+      "id": "4b4d",
+      "email": "sarita@gmail.com",
+      "password": "cutie",
+      "name": "sarita"
+    },
+    {
+      "id": "651a",
+      "email": "jedhj@gmail.com",
+      "password": "fwj",
+      "name": "ydiuew"
+    },
+    {
+      "id": "405b",
+      "email": "kjfjkf",
+      "password": "kjebfjk",
+      "name": "hellof"
+    },
+    {
+      "id": "d96d",
+      "email": "prats@gmail.com",
+      "password": "hellooo",
+      "name": "prats"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Do Laundry Bag",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Water plants",
+      "date": "21-07-2024",
+      "desc": "Water plants in frontyard, backyard and terrace"
+    },
+    {
+      "name": "reghrhgrehbr",
+      "desc": "brtnrnn",
+      "id": "4f59"
+    },
+    {
+      "name": "hello",
+      "desc": "whatsup",
+      "date": "2024-06-26",
+      "id": "9e29"
+    }
+  ]
+}
